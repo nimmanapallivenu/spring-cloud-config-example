@@ -2,12 +2,12 @@
 
 lob:
  employee:
-  - name: ccc
+  - name: venu
     age: 20
     salary: 3000
-  - name: iid
+  - name: gopal
     age: 30
     salary: 3500
-  - name: cms
+  - name: reddy
     age: 25
     salary: 3500
