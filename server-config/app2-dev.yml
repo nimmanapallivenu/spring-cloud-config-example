@@ -1,0 +1,13 @@
+# Config data exposed by config server
+
+lob:
+ employee:
+  - name: ccc
+    age: 20
+    salary: 3000
+  - name: iid
+    age: 30
+    salary: 3500
+  - name: cms
+    age: 25
+    salary: 3500
