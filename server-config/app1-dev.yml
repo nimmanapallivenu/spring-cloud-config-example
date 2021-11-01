@@ -4,10 +4,10 @@ lob:
     age: 20
     salary: 3000
   iid:
-    name:iid
+    name: iid
     age: 30
     salary: 3500
  cms:
-    name:cms
+    name: cms
     age: 25
     salary: 3500
