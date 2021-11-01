@@ -1,13 +1,13 @@
 lob:
   ccc:
-    name:ccc
+    name: ccc
     age: 20
     salary: 3000
   iid:
     name: iid
     age: 30
     salary: 3500
- cms:
+  cms:
     name: cms
     age: 25
     salary: 3500
