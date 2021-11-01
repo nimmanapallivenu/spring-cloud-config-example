@@ -4,10 +4,10 @@ lob:
  employee:
   - name: venu
     age: 20
-    salary: 3000
+    salary: 100
   - name: gopal
     age: 30
-    salary: 3500
+    salary: 20
   - name: reddy
     age: 25
-    salary: 3500
+    salary: 300
