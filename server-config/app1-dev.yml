@@ -1,4 +1,5 @@
 lob:
+ names:
   - name: ccc
     age: 20
     salary: 3000
