@@ -1,11 +1,11 @@
 lob:
  names:
-  - name: ccc
+  - name: reddy
     age: 20
-    salary: 3000
-  - name: iid
+    salary: 30
+  - name: venu
     age: 30
-    salary: 3500
-  - name: cms
+    salary: 50
+  - name: gopal
     age: 25
-    salary: 3500
+    salary: 100
